@@ -16,5 +16,9 @@ public class SolarSystem {
         Planet1 Zoro = new Planet1();
         Zoro.color = "pink";
         Zoro.Radius ="11121545miles";
+
+        Planet2 Dros = new Planet2();
+        Dros.color = "red";
+        Dros.radius = "464818miles";
     }
 }
